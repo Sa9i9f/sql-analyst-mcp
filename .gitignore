@@ -1,0 +1,8 @@
+# Dataset is supplied locally and is not published with the source.
+sharqiyatv.csv
+
+# Local Python files.
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
